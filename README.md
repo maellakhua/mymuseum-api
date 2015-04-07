@@ -3,7 +3,7 @@ Open source 2nd Harokopio Code camp application for a museum guide (server side)
 
 ## Open source software used for this project
 - [CodeIgniter] (http://www.codeigniter.com/)
-- [REST server for CodeIgniter] (https://github.com/chriskacerguis/codeigniter-restserver) by [Chris Kacerguis] (https://github.com/chriskacerguis)
+- [REST server for CodeIgniter] (https://github.com/chriskacerguis/codeigniter-restserver) provided by [Chris Kacerguis] (https://github.com/chriskacerguis)
 - [Foursquare API] (https://github.com/hownowstephen/php-foursquare) for CodeIgniter provided by [Stephen Young] (https://github.com/hownowstephen)
 
 ## How to use
